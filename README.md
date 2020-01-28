@@ -20,6 +20,12 @@
   2. API Gateway
   3. Reverse Proxy Server
   ```
+  
+  
+  ```diff
+  ! Important Internals
+  1. Event Driven Architecture
+  ```
 
 - CASSANDRA
   - [Understanding the architecture of Cassandra](https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archTOC.html).
@@ -33,4 +39,11 @@
   ! Usage
   1. In write heavy applications like activity tracking & analytics.
   2. Highly available & scalable applications.
+  ```
+  ```diff
+  ! Important Internals
+  1. Peer-to-Peer gossip communication protocol
+  2. Partitioners
+  3. Data Replication
+  4. Commit Logs / SSTable
   ```
