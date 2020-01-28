@@ -49,21 +49,21 @@
   ```
   
  - KAFKA
-  - [Getting Started with Kafka](https://kafka.apache.org/documentation/#gettingStarted).
+   - [Getting Started with Kafka](https://kafka.apache.org/documentation/#gettingStarted).
   
-  ```diff
-  ! Usage
-  1. Data Pipeline
-  2. Log Aggregation
-  3. Real Time Streaming
-  4. Messaging
-  5. Commit Log
-  ```
-  ```diff
-  ! Important Internals
-  1. Pub - Sub / Queue Model
-  2. Topic & Partition
-  3. Producer & Consumer
-  4. Data Replication
-  5. Kafka Streams
-  ```
+   ```diff
+   ! Usage
+   1. Data Pipeline
+   2. Log Aggregation
+   3. Real Time Streaming
+   4. Messaging
+   5. Commit Log
+   ```
+   ```diff
+   ! Important Internals
+   1. Pub - Sub / Queue Model
+   2. Topic & Partition
+   3. Producer & Consumer
+   4. Data Replication
+   5. Kafka Streams
+   ```
