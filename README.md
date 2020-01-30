@@ -92,3 +92,11 @@
   - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905)
 - UBER
   - [UBER System Design](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
+  
+  
+  
+**Good To Know Reads - Concept Wise**
+- Long Polling vs WebSockets vs Server-Sent Events
+  - [Long Polling vs WebSockets vs Server-Sent](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
+  - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
+
