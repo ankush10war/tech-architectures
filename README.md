@@ -84,3 +84,11 @@
    ! Important Internals
    1. Inverted Idexing
    ```  
+
+
+
+**Top Reads - Company Wise**
+- NETFLIX
+  - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905)
+- UBER
+  - [UBER System Design](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
