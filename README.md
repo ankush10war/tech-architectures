@@ -67,3 +67,19 @@
    4. Data Replication
    5. Kafka Streams
    ```
+   
+ - Apache Solr / Lucene
+   - [Inverted Indexing with Solr](https://towardsdatascience.com/machine-learning-to-big-data-scaling-inverted-indexing-with-solr-ba5b48833fb4).
+   - [Learn Solr](https://lucene.apache.org/solr/guide/8_4/solr-tutorial.html)
+   - [Building Inverted Index](https://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inverted-index-1.html)
+   - [Analysis of Lucene](https://medium.com/@Alibaba_Cloud/analysis-of-lucene-basic-concepts-5ff5d8b90a53)
+  
+   ```diff
+   ! Usage
+   1. Advanced Full Text Search
+   2. Server statistics logging
+   ```
+   ```diff
+   ! Important Internals
+   1. Inverted Idexing
+   ```  
