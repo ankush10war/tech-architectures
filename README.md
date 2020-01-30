@@ -73,6 +73,7 @@
    - [Learn Solr](https://lucene.apache.org/solr/guide/8_4/solr-tutorial.html)
    - [Building Inverted Index](https://nlp.stanford.edu/IR-book/html/htmledition/a-first-take-at-building-an-inverted-index-1.html)
    - [Analysis of Lucene](https://medium.com/@Alibaba_Cloud/analysis-of-lucene-basic-concepts-5ff5d8b90a53)
+   - [Important Basics - Lucene Query Architecture](https://docs.microsoft.com/en-us/azure/search/search-lucene-query-architecture)
   
    ```diff
    ! Usage
