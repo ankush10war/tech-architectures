@@ -99,4 +99,6 @@
 - Long Polling vs WebSockets vs Server-Sent Events
   - [Long Polling vs WebSockets vs Server-Sent](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
   - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
+- SERVERLLESS
+  - [Serverless and OpenWhisk Architecture](https://www.oreilly.com/library/view/learning-apache-openwhisk/9781492046158/ch01.html)
 
